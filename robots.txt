@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/gadget-fix-1bb22/sitemap.xml
+Sitemap: https://gadget-fix-1bb22.pages.dev/sitemap.xml
